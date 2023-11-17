@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-
+* * *
 # I FUCKING LOVE LOAM
 ## LOAM
 ### LOAM
 #### LOAM
 ##### LOAM
 ###### LOAM
+
+* * * 
 
 soil chart:
 
@@ -23,11 +25,12 @@ loam chart:
 |------|------|
 | Loam | Loam |
 
-
+* * * 
 Loam photo of the day:
 
 ![LOAM!!!!!!](/assets/images/loam.jpg/)
 
+* * * 
 god i fucking love loam
 
 
