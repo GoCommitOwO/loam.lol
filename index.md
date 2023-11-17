@@ -34,7 +34,7 @@ Loam photo of the day:
 god i fucking love loam
 * * *
 # Live footage of me rn:
-![kms](IMG_3879.jpeg)
+![kms](/assets/images/IMG_3879.jpeg)
 * * *
 Autist of the day:
 ![Sam](/assets/images/IMG_3874.jpeg/)
