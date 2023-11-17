@@ -32,8 +32,9 @@ Loam photo of the day:
 
 * * * 
 god i fucking love loam
+* * *
 
-
-[Link to another page](./another-page.html).
+Autist of the day:
+![Sam](/assets/images/IMG_3874.jpeg/)
 
 
