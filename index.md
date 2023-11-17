@@ -17,7 +17,7 @@ soil chart:
 |:-----|:-----------------------------|:----------------|------------|
 | Sand | **Sand**                     | Silt Loam       | Sandy Clay |
 | Silt | Sandy Loam                   | **Silt**        | Silty Clay |
-| Clay | Sandy Clay                   | Silty Clay Loam | Clay       |
+| Clay | Sandy Clay                   | Silty Clay Loam | **Clay**       |
 
 loam chart:
 
@@ -33,7 +33,9 @@ Loam photo of the day:
 * * * 
 god i fucking love loam
 * * *
-
+# Live footage of me rn:
+![kms](IMG_3879.jpeg)
+* * *
 Autist of the day:
 ![Sam](/assets/images/IMG_3874.jpeg/)
 
