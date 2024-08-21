@@ -9,6 +9,7 @@ layout: default
 ##### LOAM
 ###### LOAM
 
+
 * * * 
 
 soil chart:
@@ -36,7 +37,7 @@ god i fucking love loam
 # Live footage of me rn:
 ![kms](/assets/images/IMG_3879.jpeg)
 * * *
-Autist of the day:
+# Gamer of the day:
 ![Sam](/assets/images/IMG_3874.jpeg/)
 
 
